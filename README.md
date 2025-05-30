@@ -1,6 +1,6 @@
-# 🧠 Virtual Munna – Query My Docs with RAG
+# 🧠 Virtual ME – Chat With Virtual Me
 
-**Virtual Munna** is a personal RAG-based assistant that enables you (or recruiters) to query documents and get context-aware, reference-backed responses — just like chatting with me, Munna.
+**Virtual Me** is a personal RAG-based assistant that enables you (or recruiters) to query about me, just like chatting with me, Munna.
 
 ---
 
@@ -24,9 +24,9 @@ Create an intelligent, interactive system to query my personal documents using R
 
 | Component    | Tech Used                               |
 |--------------|-----------------------------------------|
-| Embeddings   | OpenAI / Hugging Face (Instructor-XL)   |
-| RAG Framework| LangChain / Haystack                    |
-| Vector DB    | FAISS / Chroma                          |
+| Embeddings   | OpenAI  |
+| RAG Framework| LangChain                  |
+| Vector DB    | FAISS                        |
 | Backend API  | FastAPI                                 |
 | Frontend     | Streamlit                               |
 | Language     | Python                                  |
